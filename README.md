@@ -1,6 +1,7 @@
 # 🧠 Chattrix – Streamlit Chatbot App
 
 Chattrix is a simple and elegant AI chatbot interface built using **Streamlit** and powered by **Together.ai's MoonshotAI Kimi-K2-Instruct** model.
+Want to visit the app click on --   https://app-chatbot-wkhvbvqyamdqmmjqmxzteb.streamlit.app/
 
 ---
 
